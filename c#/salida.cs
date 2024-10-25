@@ -1,0 +1,1 @@
+Console.WriteLine("salida de datos o informacion");
